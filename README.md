@@ -3,6 +3,7 @@ This project is a simple command-line application written in Python for managing
 It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on a collection of videos stored in a JSON file.
 
 **Features:**
+
 **1. List All Videos:**
 Displays all videos in the collection along with their names and durations.
 
