@@ -68,6 +68,6 @@ It also includes validation for user input when selecting videos to update or de
 **How to Run:**
 
 Ensure you have Python installed (version 3.10 or above).
-Save the script to a file, for example, youtube_manager.py.
-Run the script using the command: python youtube_manager.py.
+Save the script to a file, for example, YoutubeManager.py.
+Run the script using the command: python YoutubeManager.py.
 Follow the on-screen prompts to manage your list of YouTube videos.
